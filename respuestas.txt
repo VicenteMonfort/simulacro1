@@ -3,3 +3,4 @@ mkdir examen/uno examen/dos examen/tres
 2.- touch una/nombre.txt
 3.- cp ../una/nombre.txt ../tres
 4.- mkdir dos/dosUna
+5.- touch ../../edad.txt
