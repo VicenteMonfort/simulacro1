@@ -6,3 +6,4 @@ mkdir examen/uno examen/dos examen/tres
 5.- touch ../../edad.txt
 6.- rm ../../tres/nombre.txt
 7.- mv edad.txt dos/dosUna/edad2.txt
+8.- rm -r examen
