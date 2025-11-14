@@ -5,3 +5,4 @@ mkdir examen/uno examen/dos examen/tres
 4.- mkdir dos/dosUna
 5.- touch ../../edad.txt
 6.- rm ../../tres/nombre.txt
+7.- mv edad.txt dos/dosUna/edad2.txt
